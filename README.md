@@ -1,2 +1,2 @@
 # Test LPR
-re-convert data bounding box of object detection into yolo format (.txt)
+re-convert data bounding box of object detection images into yolo format (.txt) per image
